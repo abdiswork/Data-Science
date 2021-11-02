@@ -1,7 +1,7 @@
 # Welcome To Data-Science
 Data science is the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data.
 
-### 📖 Documentation
+### 📖 Training and Certification
 You can find my certification and bootcamp of Data Science in this link : https://github.com/abdiswork/Data-Science/bootcamp-and-certification
 
 ### 📋 Codes
