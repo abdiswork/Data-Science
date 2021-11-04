@@ -22,4 +22,4 @@ If you would like to see my sample code for each part of Data Science skills, yo
 If you would like to see my work in Data Science related, you may check this link : https://github.com/abdiswork/Data-Science/projects
 
 # Close Statement
-If you are interested with skills or having some questions, please drop your inquiry to abdis.worker@gmail.com
+If you are interested with my skills or having some questions, please drop your inquiry to abdis.worker@gmail.com
