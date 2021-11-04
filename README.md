@@ -10,7 +10,7 @@ You can find my certification and bootcamp of Data Science in this link : https:
 - 💼 Working with Supervised and Unsupervised Data Machine Learning (2 years~)
 - 💼 Working with Database (4 years ~)
 - 💼 Working with SQL Query (4 years ~)
-- 💼 Working with Database (4 years ~)
+- 💼 Working with Data (4 years ~)
 - 📖 R programming
 - 📖 Python programming
 - 📖 Matlab programming
